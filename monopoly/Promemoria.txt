@@ -1,0 +1,6 @@
+
+PROMEMORIA - COSE MANCANTI:
+
+1) Test delle varie situazioni in caso di crash (non so se funziona per tutti i casi)
+2) TradeGroup/TradeCanvas da modificare: devono servire solo a mostrare le proprie proprietà e quelle degli altri giocatori (non serve che modifichi niente in Monopoly, basta che sistemi TradeGroup/TradeCanvas e al resto ci penso io)
+3) Test della UI nelle macchine unibo
